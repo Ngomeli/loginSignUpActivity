@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name"></string>
+    <string name="app_name">Water</string>
     <string name="login">Login</string>
     <string name="welcome_back">Welcome Back</string>
     <string name="register">REGISTER</string>
