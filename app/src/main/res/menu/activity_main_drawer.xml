@@ -13,12 +13,21 @@
             android:icon="@drawable/ic_baseline_account_circle_24"
             android:title="Account" />
         <item
+            android:id="@+id/nav_message"
+            android:icon="@drawable/ic_message"
+            android:title="Messages"/>
+        <item android:title="Communication">
+            <menu>
+        <item
             android:id="@+id/nav_share"
             android:icon="@drawable/ic_menu_share"
-            android:title="Share" />
+            android:title="Share"
+            />
         <item
             android:id="@+id/nav_rateUs"
             android:icon="@drawable/ic_rate_review"
             android:title="Rate Us"/>
+            </menu>
+        </item>
     </group>
 </menu>
