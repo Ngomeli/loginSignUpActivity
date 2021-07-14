@@ -10,7 +10,7 @@
             android:title="@string/menu_home" />
         <item
             android:id="@+id/nav_account"
-            android:icon="@drawable/ic_baseline_account_circle_24"
+            android:icon="@drawable/ic_account_circle"
             android:title="Account" />
         <item
             android:id="@+id/nav_message"
@@ -20,7 +20,7 @@
             <menu>
         <item
             android:id="@+id/nav_share"
-            android:icon="@drawable/ic_menu_share"
+            android:icon="@drawable/ic_share"
             android:title="Share"
             />
         <item

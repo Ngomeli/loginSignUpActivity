@@ -39,7 +39,8 @@
         android:text="joshuangomeli@gmail.com"
         android:layout_below="@+id/userName"
         android:textColor="@color/white"
-        android:textSize="12sp"
+        android:textSize="12dp"
         android:layout_marginLeft="16dp"/>
+
 
 </RelativeLayout>
